@@ -56,7 +56,7 @@ build/
 src/test/resources/TestData.xlsx
 
 ###Individual Configuration Properties###
-src/main/resources/config.properties
+#src/main/resources/config.properties
 
 
 
