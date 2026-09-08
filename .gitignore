@@ -58,6 +58,9 @@ src/test/resources/TestData.xlsx
 ###Individual Configuration Properties###
 #src/main/resources/config.properties
 
+#Runner"
+src/test/java/runners/TestRunner.java
+
 
 
 
