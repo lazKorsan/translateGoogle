@@ -59,7 +59,7 @@ src/test/resources/TestData.xlsx
 #src/main/resources/config.properties
 
 #Runner"
-src/test/java/runners/TestRunner.java
+src/test/java/runners
 
 
 
